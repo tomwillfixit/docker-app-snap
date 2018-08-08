@@ -14,7 +14,7 @@ Visit snapcraft.io and download the tools needed to build a snap.
 
 ```
 cd build
-snapbuild cleanbuild
+snapcraft cleanbuild
 snap install docker-app_v0.3.0_amd64.snap --classic --dangerous
 snap list
 ```
