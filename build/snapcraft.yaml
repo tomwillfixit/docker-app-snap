@@ -1,5 +1,5 @@
 name: docker-app
-version: v0.3.0
+version: v0.4.1
 summary: docker-app 
 description: An experimental utility to help make Compose files more reusable and sharable. https://github.com/docker/app 
 
@@ -13,5 +13,5 @@ apps:
 parts:
   docker-app:
     plugin: dump 
-    source: https://github.com/docker/app/releases/download/v0.3.0/docker-app-linux.tar.gz
+    source: https://github.com/docker/app/releases/download/v0.4.1/docker-app-linux.tar.gz
     source-type: tar
