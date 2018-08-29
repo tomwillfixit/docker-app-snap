@@ -15,7 +15,7 @@ Visit snapcraft.io and download the tools needed to build a snap.
 ```
 cd build
 snapcraft cleanbuild
-snap install docker-app_v0.3.0_amd64.snap --classic --dangerous
+snap install docker-app_v0.4.1_amd64.snap --classic --dangerous
 snap list
 ```
 
@@ -24,7 +24,7 @@ snap list
 If you are feeling adventurous you can install the pre-built .snap application in this directory. Just clone this repo and run :
 
 ```
-snap install docker-app_v0.3.0_amd64.snap --classic --dangerous
+snap install docker-app_v0.4.1_amd64.snap --classic --dangerous
 ```
 
 ## Remove
